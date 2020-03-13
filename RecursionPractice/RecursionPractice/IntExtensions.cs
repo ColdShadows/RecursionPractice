@@ -20,6 +20,5 @@ namespace RecursionPractice
 
             return number * GetPowerOf(number, power - 1);
         }
-        
     }
 }
